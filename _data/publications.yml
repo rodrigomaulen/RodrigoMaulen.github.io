@@ -2,7 +2,6 @@ main:
 
   - title: Convergence and Recovery Guarantees of Unsupervised Neural Networks for Inverse Problems
     authors: <strong>Nathan Buskulic</strong>, Jalal Fadili, Yvain Quéau
-    conference_short: Arxiv
     conference: Arxiv, 2023
     pdf: https://arxiv.org/abs/2309.12128
     notes: Submitted to JMIV special issue
