@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I am a Ph.D. student at Université de Caen in Normandy, France, under the supervision of Jalal Fadili and Yvain Quéau. My work focuses on the theoretical aspects of deep learning when used to solve inverse problems. I am particularly interested in the guarantees that one can achieve with deep learning to help applying this technology to critical domains.
+Hi! I am a Ph.D. student at Université de Caen in Normandy, France, under the supervision of Jalal Fadili and Yvain Quéau. My work focuses on the theoretical aspects of deep learning when used to solve inverse problems. I am particularly interested in the guarantees that one can achieve with deep learning to help apply this technology to critical domains.
 
 ## News
 
