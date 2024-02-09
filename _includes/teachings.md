@@ -7,5 +7,8 @@
 
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Image Synthesis</autocolor>,Master,2022-2023</li>
+  <li>
+    <div><strong>Image Synthesis</strong>: Ray-tracing methods and creation of a ray-tracer from Nori</div>
+    <div>Master level, 2022-2023</div>
+  </li>
 </ul>
