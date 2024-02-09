@@ -12,4 +12,5 @@ Hi! I am a Ph.D. student at Université de Caen in Normandy, France, under the s
 - **[May 2023]** Our paper won the best paper award of SSVM.
 
 {% include_relative _includes/publications.md %}
+{% include_relative _includes/teachings.md %}
 
