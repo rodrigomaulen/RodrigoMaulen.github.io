@@ -5,3 +5,9 @@ main:
     conference: Arxiv, 2023
     pdf: https://arxiv.org/abs/2309.12128
     notes: Submitted to JMIV special issue
+
+    - title: Convergence Guarantees of Overparametrized Wide Deep Inverse Prior
+    authors: <strong>Nathan Buskulic</strong>, Yvain Quéau, Jalal Fadili
+    conference: SSVM, 2023
+    pdf: https://arxiv.org/abs/2303.11265
+    notes: Best paper award
