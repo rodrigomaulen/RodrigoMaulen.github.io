@@ -9,7 +9,7 @@ Hi! I am a Ph.D. student at Université de Caen in Normandy, France, under the s
 ## News
 
 - **[September 2023]** The full journal version of our work on convergence guarantees of DL applied to inverse problems is on arxiv.
-- **[May 2023]** Our paper won the best paper award of SSVM.
+- **[May 2023]** Our paper won the best paper award at SSVM.
 
 {% include_relative _includes/publications.md %}
 
