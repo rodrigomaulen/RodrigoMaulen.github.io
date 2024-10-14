@@ -5,7 +5,7 @@ main:
     conference: Arxiv, 2022
     pdf: https://arxiv.org/abs/2207.02750
     notes: Submitted to MOR
-   - title: Tikhonov regularization for stochastic convex optimization in Hilbert spaces
+  - title: Tikhonov regularization for stochastic convex optimization in Hilbert spaces
     authors: <strong>Rodrigo Maulen-Soto</strong>, Jalal Fadili, Hedy Attouch
     conference: Arxiv, 2024
     pdf: https://arxiv.org/abs/2403.06708
