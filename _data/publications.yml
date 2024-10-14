@@ -5,25 +5,21 @@ main:
     conference: Arxiv, 2022
     pdf: https://arxiv.org/abs/2207.02750
     notes: Submitted to MOR
-
    - title: Tikhonov regularization for stochastic convex optimization in Hilbert spaces
     authors: <strong>Rodrigo Maulen-Soto</strong>, Jalal Fadili, Hedy Attouch
     conference: Arxiv, 2024
     pdf: https://arxiv.org/abs/2403.06708
     notes: Submitted to OJMO
-
   - title: Stochastic inertial dynamics via time scaling and averaging
     authors: <strong>Rodrigo Maulen-Soto</strong>, Jalal Fadili, Hedy Attouch, Peter Ochs
     conference: Arxiv, 2024
     pdf: https://arxiv.org/abs/2403.16775
     notes: Submitted to Stochastic Systems
-
   - title:  An SDE Perspective on Stochastic Inertial Gradient Dynamics with Time-Dependent Viscosity and Geometric Damping
     authors: <strong>Rodrigo Maulen-Soto</strong>, Jalal Fadili, Hedy Attouch, Peter Ochs
     conference: Arxiv, 2024
     pdf: https://arxiv.org/abs/2407.04562
     notes: Submitted to SIOPT
-
   - title:  Inertial Methods with Viscous and Hessian driven Damping for Non-Convex Optimization
     authors: <strong>Rodrigo Maulen-Soto</strong>, Jalal Fadili, Peter Ochs
     conference: Arxiv, 2024
