@@ -4,11 +4,12 @@ layout: homepage
 
 ## About Me
 
-Hi! I am a Ph.D. student at Université de Caen in Normandy, France, under the supervision of Jalal Fadili. My work focuses on studying theoretical stochastic dynamics for optimization problems. I am particularly interested in the possible applications to Machine Learning, related to variance reduction methods and continuous optimization.
+Hi! I am a postdoctoral researcher at Sorbonne Université in Paris, France. My work focuses on studying theoretical stochastic/deterministic dynamics for optimization problems. I am particularly interested in the possible applications to Machine Learning, related to variance reduction methods and continuous optimization.
 
 ## News
 
-- **[July 2022]** The preprint of our first work is available on arxiv.
+- **[November 2024]** I have obtained a Ph.D. in Mathematics at Université de Caen in Normandy, France under the supervision of Jalal Fadili.
+- **[November 2024]** I have started a Postdoctoral position at Sorbonne Université with Claire Boyer.
 
 
 {% include_relative _includes/publications.md %}
