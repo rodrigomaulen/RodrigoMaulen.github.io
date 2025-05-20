@@ -19,7 +19,7 @@ main:
     authors: <strong>Rodrigo Maulen-Soto</strong>, Jalal Fadili, Hedy Attouch, Peter Ochs
     conference: Arxiv, 2024
     pdf: https://arxiv.org/abs/2407.04562
-    notes: Submitted to SIOPT
+    notes: Submitted to Optimization
   - title:  Inertial Methods with Viscous and Hessian driven Damping for Non-Convex Optimization
     authors: <strong>Rodrigo Maulen-Soto</strong>, Jalal Fadili, Peter Ochs
     conference: Arxiv, 2024
@@ -29,6 +29,6 @@ main:
     authors: <strong>Rodrigo Maulen-Soto</strong>, Claire Boyer, Pierre Marion
     conference: Arxiv, 2025
     pdf: https://arxiv.org/abs/2505.13112
-    notes: Submitted
+    notes: Submitted...
 
  
