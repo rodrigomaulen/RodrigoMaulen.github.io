@@ -25,7 +25,7 @@ main:
     conference: Arxiv, 2024
     pdf: https://arxiv.org/abs/2407.12518
     notes: Submitted to Mathematical Programming
-    - title: Attention-based clustering
+  - title: Attention-based clustering
     authors: <strong>Rodrigo Maulen-Soto</strong>, Claire Boyer, Pierre Marion
     conference: Arxiv, 2025
     pdf: https://arxiv.org/abs/2505.13112
