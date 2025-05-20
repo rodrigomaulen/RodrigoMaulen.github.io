@@ -4,7 +4,7 @@ main:
     authors: <strong>Rodrigo Maulen-Soto</strong>, Jalal Fadili, Hedy Attouch
     conference: Arxiv, 2022
     pdf: https://arxiv.org/abs/2207.02750
-    notes: Submitted to MOR
+    notes: Published on MOR
   - title: Tikhonov regularization for stochastic convex optimization in Hilbert spaces
     authors: <strong>Rodrigo Maulen-Soto</strong>, Jalal Fadili, Hedy Attouch
     conference: Arxiv, 2024
@@ -25,5 +25,10 @@ main:
     conference: Arxiv, 2024
     pdf: https://arxiv.org/abs/2407.12518
     notes: Submitted to Mathematical Programming
+    - title: Attention-based clustering
+    authors: <strong>Rodrigo Maulen-Soto</strong>, Claire Boyer, Pierre Marion
+    conference: Arxiv, 2025
+    pdf: https://arxiv.org/abs/2505.13112
+    notes: Submitted
 
  
