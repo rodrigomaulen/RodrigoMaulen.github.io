@@ -18,5 +18,5 @@ Hi! I am a postdoctoral researcher at Sorbonne Université in Paris, France. My 
 
 {% include_relative _includes/teachings.md %}
 
-{% include_relative _includes/app.md %}
+{% include_relative _includes/app.md %} 
 
