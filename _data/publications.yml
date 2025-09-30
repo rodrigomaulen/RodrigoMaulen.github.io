@@ -4,12 +4,12 @@ main:
     authors: <strong>Rodrigo Maulen-Soto</strong>, Jalal Fadili, Hedy Attouch
     conference: Arxiv, 2022
     pdf: https://arxiv.org/abs/2207.02750
-    notes: Published on MOR
+    notes: Published on Mathematics of Operations Research
   - title: Tikhonov regularization for stochastic convex optimization in Hilbert spaces
     authors: <strong>Rodrigo Maulen-Soto</strong>, Jalal Fadili, Hedy Attouch
     conference: Arxiv, 2024
     pdf: https://arxiv.org/abs/2403.06708
-    notes: Submitted to OJMO
+    notes: Accepted on Open Journal of Mathematical Optimization
   - title: Stochastic inertial dynamics via time scaling and averaging
     authors: <strong>Rodrigo Maulen-Soto</strong>, Jalal Fadili, Hedy Attouch, Peter Ochs
     conference: Arxiv, 2024
@@ -20,7 +20,7 @@ main:
     conference: Arxiv, 2024
     pdf: https://arxiv.org/abs/2407.04562
     notes: Submitted to Optimization
-  - title:  Inertial Methods with Viscous and Hessian driven Damping for Non-Convex Optimization
+  - title:  Inertial Methods with Viscous and Hessian-driven Damping for Non-Convex Optimization
     authors: <strong>Rodrigo Maulen-Soto</strong>, Jalal Fadili, Peter Ochs
     conference: Arxiv, 2024
     pdf: https://arxiv.org/abs/2407.12518
