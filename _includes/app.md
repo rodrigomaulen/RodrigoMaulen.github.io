@@ -7,9 +7,7 @@
     <div><strong>I have developed an app of the Chilean Civil Code, to be published on Play Store.</strong></div>
 
   </li>
-  <li>
 
-  </li>
 </ul>
 
 
