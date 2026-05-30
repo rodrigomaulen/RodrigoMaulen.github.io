@@ -9,17 +9,17 @@ main:
     authors: <strong>Rodrigo Maulen-Soto</strong>, Jalal Fadili, Hedy Attouch
     conference: Arxiv, 2024
     pdf: https://arxiv.org/abs/2403.06708
-    notes: Accepted on Open Journal of Mathematical Optimization
+    notes: Published on Open Journal of Mathematical Optimization
   - title: Stochastic inertial dynamics via time scaling and averaging
     authors: <strong>Rodrigo Maulen-Soto</strong>, Jalal Fadili, Hedy Attouch, Peter Ochs
     conference: Arxiv, 2024
     pdf: https://arxiv.org/abs/2403.16775
-    notes: Accepted on Stochastic Systems
+    notes: Published on Stochastic Systems
   - title:  An SDE Perspective on Stochastic Inertial Gradient Dynamics with Time-Dependent Viscosity and Geometric Damping
     authors: <strong>Rodrigo Maulen-Soto</strong>, Jalal Fadili, Hedy Attouch, Peter Ochs
     conference: Arxiv, 2024
     pdf: https://arxiv.org/abs/2407.04562
-    notes: Accepted on Optimization
+    notes: Published on Optimization
   - title:  Inertial Methods with Viscous and Hessian-driven Damping for Non-Convex Optimization
     authors: <strong>Rodrigo Maulen-Soto</strong>, Jalal Fadili, Peter Ochs
     conference: Arxiv, 2024
@@ -29,7 +29,7 @@ main:
     authors: <strong>Rodrigo Maulen-Soto</strong>, Pierre Marion, Claire Boyer
     conference: Arxiv, 2025
     pdf: https://arxiv.org/abs/2505.13112
-    notes: Accepted on NeurIPS 2025
+    notes: Published on NeurIPS 2025
   - title: Attention-based PCA
     authors: <strong>Rodrigo Maulen-Soto</strong>, Claire Boyer
     conference: Arxiv, 2026
