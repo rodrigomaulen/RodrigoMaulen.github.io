@@ -26,8 +26,18 @@
 
 <ul style="margin:0 0 5px;">
   <li>
-    <div><strong>Mathématiques pour l'informatique</strong>: Focused mainly on optimization methods as Gradient Descent, Newton and Conjugated gradient and their convergence guarantees</div>
+    <div><strong>Mathématiques pour l'informatique</strong>: Focused mainly on optimization methods such as Gradient Descent, Newton and Conjugated gradient and their convergence guarantees</div>
     <div>Deuxième année, 2023-2024, teaching assistant </div>
+  </li>
+ 
+</ul>
+
+<h4 style="margin:0 10px 0;">Sorbonne Université (Jussieu)</h4>
+
+<ul style="margin:0 0 5px;">
+  <li>
+    <div><strong>Mathématiques approfondies</strong>: Focused on calculus and linear algebra </div>
+    <div>Licence 1, 2025-2026, teaching assistant </div>
   </li>
  
 </ul>
