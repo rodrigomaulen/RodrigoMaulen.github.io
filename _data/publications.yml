@@ -26,9 +26,14 @@ main:
     pdf: https://arxiv.org/abs/2407.12518
     notes: Submitted to Journal of Global Optimization
   - title: Attention-based clustering
-    authors: <strong>Rodrigo Maulen-Soto</strong>, Claire Boyer, Pierre Marion
+    authors: <strong>Rodrigo Maulen-Soto</strong>, Pierre Marion, Claire Boyer
     conference: Arxiv, 2025
     pdf: https://arxiv.org/abs/2505.13112
     notes: Accepted on NeurIPS 2025
+  - title: Attention-based PCA
+    authors: <strong>Rodrigo Maulen-Soto</strong>, Claire Boyer
+    conference: Arxiv, 2026
+    pdf: https://arxiv.org/abs/2605.18315
+    notes: Submitted ...
 
  
