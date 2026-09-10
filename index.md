@@ -4,10 +4,11 @@ layout: homepage
 
 ## About Me
 
-Hi! I am a postdoctoral researcher at Sorbonne Université in Paris, France. My research lies at the intersection of optimization, machine learning, and dynamical systems. I develop mathematical analyses of stochastic and deterministic optimization algorithms. Nowadays, I have a particular interest in attention mechanisms and the theoretical foundations of modern machine learning.
+Hi! I am a postdoctoral researcher at Université de Toulouse Paul Sabatier in France. My research lies at the intersection of optimization, machine learning, and dynamical systems. I develop mathematical analyses of stochastic and deterministic optimization algorithms. Nowadays, I have a particular interest in attention mechanisms and the theoretical foundations of modern machine learning.
 
 ## News
 
+- **[September 2026]** I have started a Postdoctoral position at Université de Toulouse Paul Sabatier with Jean-Michel Loubes, Franck Iutzeler and Jérôme Bolte.
 - **[May 2026]** I published a preprint of a paper titled Attention-Based PCA, together with Claire Boyer.
 - **[May 2025]** I published a paper titled Attention-Based Clustering, together with Claire Boyer and Pierre Marion. Accepted on NeurIPS 2025.
 - **[November 2024]** I have started a Postdoctoral position at Sorbonne Université with Claire Boyer.
