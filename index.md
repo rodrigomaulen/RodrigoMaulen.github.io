@@ -8,11 +8,12 @@ Hi! I am a postdoctoral researcher at Université de Toulouse Paul Sabatier in F
 
 ## News
 
-- **[September 2026]** I have started a Postdoctoral position at Université de Toulouse Paul Sabatier with Jean-Michel Loubes, Franck Iutzeler and Jérôme Bolte.
+- **[September 2026]** Our work titled Attention-Based PCA was accepted as a spotlight paper at NeurIPS 2026!.
+- **[September 2026]** I have started a Postdoctoral position at Université de Toulouse Paul Sabatier with Jean-Michel Loubes, Franck Iutzeler, and Jérôme Bolte.
 - **[May 2026]** I published a preprint of a paper titled Attention-Based PCA, together with Claire Boyer.
-- **[May 2025]** I published a paper titled Attention-Based Clustering, together with Claire Boyer and Pierre Marion. Accepted on NeurIPS 2025.
-- **[November 2024]** I have started a Postdoctoral position at Sorbonne Université with Claire Boyer.
-- **[November 2024]** I have obtained a Ph.D. in Mathematics at Université de Caen in Normandy, France under the supervision of Jalal Fadili.
+- **[May 2025]** I published a paper titled Attention-Based Clustering, together with Claire Boyer and Pierre Marion. Accepted at NeurIPS 2025.
+- **[November 2024]** I started a Postdoctoral position at Sorbonne Université with Claire Boyer.
+- **[November 2024]** I obtained a Ph.D. in Mathematics at Université de Caen in Normandy, France, under the supervision of Jalal Fadili.
 
 
 
